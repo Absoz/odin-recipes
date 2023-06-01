@@ -1,0 +1,24 @@
+#content-wrapper {
+    background-color: beige;
+    border: 2px solid black;
+    color: purple;
+    margin: auto;
+}
+#title {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav > a {
+    display: inline;
+    font-size: 12px;
+    padding: 2px;
+    padding-left: 3px;
+}
+#sub-header {
+    font-size: 18px;
+    text-align: center;
+    font-weight: italic;
+}
+
